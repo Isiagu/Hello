@@ -1,2 +1,2 @@
 Hello World
-This is the third message document
+This is the third message document.
